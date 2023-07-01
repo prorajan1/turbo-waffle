@@ -1,3 +1,4 @@
+practice
 SQL tuff to practice set 2
 
 1.Display the names of the employee in order of salary i.e. the name of employee earning lowest salary should be first.
