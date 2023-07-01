@@ -1,0 +1,22 @@
+SQL tuff to practice set 1
+
+1.Display the details of all the employess.
+2.Display the name and job for all the employess.
+3.Display the name and salary for all the employess.
+4.Display the employee no and total salary for all the employess.
+5.Display the employee name and annual salary for all the employess.
+6.Display the employee names of all employess who are working in HR department.
+7.Display the employee names of all employess who are working in HR department and salary is greater than 2000.
+8.Display the employee number who are earning same salary.
+9.Display the names of employess whos are working in organization for the past 5 years.
+10.Display the list of employess who have joined the company before 30-01-2020 after 30-07-2020?
+11.Display current date.
+12.Display all the tables name from database?
+13.Display the employess whos name start with alphabet 'S'.
+14.Display the employess whos name ends with alphabet 'S'.
+15.Display the employess whose names have second alphabet 'R' in their names.
+16.Select the names of the employee whose names is exactly five charecter of length.
+17.Display the total salary being paid to all employess.
+18.Display the maximum salary from employee table.
+19.Display the minimum salary from employee table.
+20.Display the Average salary from employee table.

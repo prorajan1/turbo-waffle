@@ -1,0 +1,25 @@
+SQL tuff to practice set 2
+
+1.Display the names of the employee in order of salary i.e. the name of employee earning lowest salary should be first.
+2.Display the empno,ename,deptno,salary sort the output first based on name within name by deptno and within deptno by salary.
+3.Display the name of the employee along with their annual salary (salary*12). The name of the employee earning highest annual salary should appear first.
+
+4.Display the names,salary,HRA,PF,DA,Total Salary for each employeer.
+  The output should be in the order of total salary,HRA 15% salary,DA 10% salary, PF 5% of salary, total salary will be (salary+HRA+DA)-PF
+
+5.Display the department numbers and total number of employees working in each department.
+6.Display the department numbers and total salary for each department
+7.Display the department numbers and total maximum salary for each department
+8.Display the department numbers and total salary for each department whose employee count is more than 2.
+9.Display the names of HR whos earn a salary more than highest salary of Finance department.
+10.Display the name of employess who earn highest salary in their respective department?
+11.Display the name of employess who are working in Accounting department.
+12.Display the name of employess who are working in Mumbai.
+13.Display the department having total salary greater than the maximum salary for managers.
+14.Display the employess last or bottom 5 records.
+15.Display the employess whose employee ID is even.
+16.Display the employess whose employee ID is odd.
+17.How to find '_' within two names (for ex: name like Praveen_Patil)
+18.Display the maximum salary from being paid to Finance department from employee table.
+19.Display the minimum salary from being paid to HR department from from employee table.
+20.Display the Average salary drwan by Manager department from from employee table.

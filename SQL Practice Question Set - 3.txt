@@ -1,0 +1,22 @@
+SQL tuff to practice set 3
+
+1.Display the names of all the employess in uppercase?
+2.Display the names of all the employess in lowercase?
+3.Display the length of your name using appropriate function?
+4.Display the length of all the employee table?
+5.select the name of amployee and employee id in a single column.
+6.Use appropriate function and extract 3 charecters starting from charecters from the following string 'SCODEEN' ie O/P should be SCO.
+7.Find the first occurance of  charecter 'E'the following string "SCODEEN GLOBAL".
+8.Replace every occurance of alphabet F with E in the following string "SCODFFN GLOBAL".
+9.Display the information from employee table where name found "MANAGER" replace with "BOSS".
+10.Display your age in days?
+11.display your age in months?
+12.Display current date as 15th AUG 1990.
+13.Display current time?
+14.Employee joined on 13th sept 1987 then what is the total service on current date?
+15.Display the date before three months current date.
+16.Display the department which are unique in department column.
+17.Display those employee whose name contains less than 4 charecters.
+18.Display those employeess whose salary is greater than 3000 after giving 25% increment.
+19.Select count of employess from each department where count greater than 3.
+20.Find the bottom 4 records from employee table?
